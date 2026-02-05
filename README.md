@@ -204,8 +204,8 @@ We evaluate on 4 benchmarks: `LoveDA`, `Potsdam`, `Vaihingen`, and `iSAID`. Ensu
 
 We provide pre-constructed **Concept Banks** to facilitate direct reproduction of our results. These files are located in:
 
-* `configs/concept_bank/cb_sam3_ns.pt` (for Natural Scene)
-* `configs/concept_bank/cb_sam3_rs.pt` (for Remote Sensing)
+* `configs/concept_bank/cb_sam3_ns.pt` (for Natural Scene) [download](https://github.com/ConceptBank/ConceptBank/releases/download/v0.1/cb_sam3_ns.pt)
+* `configs/concept_bank/cb_sam3_rs.pt` (for Remote Sensing) [download](https://github.com/ConceptBank/ConceptBank/releases/download/v0.1/cb_sam3_rs.pt)
 
 You can use the provided scripts to evaluate these banks directly or regenerate them from scratch.
 
